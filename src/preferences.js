@@ -32,7 +32,7 @@ eXide.util.Preferences = (function () {
 		showPrintMargin: true,
 		showHScroll: false,
         indent: -1,
-        indentSize: 4,
+        indentSize: 2,
         softWrap: -1,
         emmet: false
 	};
